@@ -95,7 +95,7 @@ nav img {
 #home{
 
 	width: 100%;
-	min-width: 250vh;
+	min-width: 100%;
 	min-height: 120vh;
 	background: rgb(141,211,187);
 }
