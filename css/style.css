@@ -14,9 +14,10 @@ h1{
 }
 
 .button1{
-
+    height: 100px;
+    width: 100%;
+    background-color: powderblue;
 	position: fixed;
-	left: 5%;
 	color: rgb(0,0,249);
 }
 
@@ -95,7 +96,7 @@ nav img {
 
 	width: 100%;
 	min-width: 180vh;
-	min-height: 100vh;
+	min-height: 120vh;
 	background: rgb(141,211,187);
 }
 
