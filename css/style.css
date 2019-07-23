@@ -122,6 +122,38 @@ nav img {
     max-width: 1000px;
 }
 
+#header1{
+    position: static;
+    width: 100%;
+    min-height: 100vh;
+    left: 0;
+    top: 0;
+	background-color: rgb(46,99,149);
+}
+
+#headerContent1{
+    color: white; 
+	padding-top: 120px;
+    margin: auto; 
+    max-width: 1000px;
+}
+
+#header3{
+    position: static;
+    width: 100%;
+    min-height: 100vh;
+    left: 0;
+    top: 0;
+	background-color: rgb(202,84,80);
+}
+
+#headerContent3{
+    color: white; 
+	padding-top: 120px;
+    margin: auto; 
+    max-width: 1000px;
+}
+
 
 /* Simple grid */
 .g-row{
